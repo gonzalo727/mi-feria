@@ -1,0 +1,11 @@
+.cajas{
+    background:rgb(69, 228, 109);
+    text-align: center;
+    margin: 20px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+#contenido1{background: rgb(250, 202, 99)}
+a{color:rgb(129, 23, 94)}
+
+#pie{height: 70px; background-color: rgb(171, 157, 250); margin-bottom: 0px; padding: 5px; font-size: 10px;}
